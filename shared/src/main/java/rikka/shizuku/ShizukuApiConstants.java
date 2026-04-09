@@ -1,4 +1,4 @@
-package rikka.shizuku;
+ 1package rikka.shizuku;
 
 import androidx.annotation.RestrictTo;
 
